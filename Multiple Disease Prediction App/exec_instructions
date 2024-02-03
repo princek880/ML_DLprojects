@@ -1,0 +1,10 @@
+the following libraries should be installed before running the code:
+streamlit -- pip install numpy
+numpy -- pip install numpy
+pandas -- pip install pandas
+streamlit options menu -- pip install streamlit-option-menu
+
+execution code with above mentioned packages present in the python environment:
+streamlit run "<file address of the mutli_disease_pred.py in your local computer>"
+
+It will open a web application on your default browser after a few seconds.
